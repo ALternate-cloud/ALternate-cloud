@@ -1,5 +1,7 @@
 # 💫 About Me:
-Aspiring Software Engineer and final-year CSE student with a solid grasp of programming fundamentals and problem-solving.<br>Skilled in C++, Java, Python, and basic web technologies (HTML, CSS, JavaScript). Completed multiple academic and personal projects involving data structures, algorithms, database management, and full-stack applications.<br>Quick learner with a strong interest in software development and system design. Seeking entry-level opportunities to grow and contribute meaningfully to impactful projects.
+Final-year Computer Science & Engineering student with a growing passion for software development and problem-solving. Currently strengthening my fundamentals in programming, Data Structures & Algorithms, and web technologies.
+Familiar with C++, Java, Python, HTML, CSS, and JavaScript. Have worked on academic projects and personal mini-projects to apply classroom concepts in real scenarios.
+Quick learner who enjoys building things and exploring new technologies. Eager to gain hands-on experience through internships or entry-level roles and contribute to meaningful projects
 
 
 ## 🌐 Socials:
